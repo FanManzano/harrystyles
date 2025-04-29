@@ -1,0 +1,39 @@
+body {
+    background-color: #cfd7e696;
+    font-family: Arial, sans-serif;
+    text-align: left;
+}
+
+h1 {
+    text-align: center;
+    color: rgb(0, 0, 0);
+}
+
+H3 {
+    text-align: center;
+}
+/* Este es un comentario en CSS */
+h4 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #472e75;
+    font-size: 16px;
+}
+
+
+h5 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #472e75;
+    font-size: 16px;
+}
+
+h6 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #472e75;
+    font-size: 16px;
+}
+p {
+    font-size: 18px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color: rgb(0, 0, 0);
+    text-align: justify;
+}

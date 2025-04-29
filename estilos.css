@@ -1,0 +1,16 @@
+body {
+    background-color: #c5f1dc;
+    font-family: Arial, sans-serif;
+    text-align: left;
+}
+
+h1 {
+    color: rgb(0, 0, 0);
+    text-align: center;
+}
+/* Este es un comentario en CSS */
+p {
+    font-size: 18px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color: rgb(0, 0, 0);
+}
